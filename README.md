@@ -4,7 +4,7 @@ My professional focus is on connecting the potential of technology with the need
 
 ## 🚀 About Me:
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDEwMHA5NDZhMHVvNzVmdzNhcWtvb285dmxhY2o4dnJnZ2ZtMXUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsVLQTBtpTQ7bZC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDEwMHA5NDZhMHVvNzVmdzNhcWtvb285dmxhY2o4dnJnZ2ZtMXUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsVLQTBtpTQ7bZC/giphy.gif">
 
 🌱 I'm currently learning on **FemCoders Bootcamp**.  
 🌱 I'm exploring **DevOps culture and practices** through Java projects.  
