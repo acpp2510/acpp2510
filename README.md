@@ -2,18 +2,15 @@
 
 My professional focus is on connecting the potential of technology with the needs of people. I'm driven by a curiosity to discover how we can collaborate more effectively, and I use data analysis and software development (Python, Java, AI) to build those connections, creating smoother, more collaborative processes for everyone.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDEwMHA5NDZhMHVvNzVmdzNhcWtvb285dmxhY2o4dnJnZ2ZtMXUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsVLQTBtpTQ7bZC/giphy.gif">
-
-
 ## 🚀 About Me:
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDEwMHA5NDZhMHVvNzVmdzNhcWtvb285dmxhY2o4dnJnZ2ZtMXUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsVLQTBtpTQ7bZC/giphy.gif">
 
 🌱 I'm currently learning on **FemCoders Bootcamp**.  
 🌱 I'm exploring **DevOps culture and practices** through Java projects.  
 🌱 I'm passionate about **Machine Learning** and **AI** and eager to deepen my knowledge in these areas.
 👯 I'm looking to collaborate on **Java and Python Projects**.  
 👨‍💻 All of my projects are available at **[GitHub](https://github.com/acpp2510)**  
-
 
 
 ---
